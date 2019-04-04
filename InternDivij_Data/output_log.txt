@@ -1,0 +1,70 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 860M (ID=0x1392)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4624
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\TextMeshPro-5.5-Runtime.dll (this message is harmless)
+Loading E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\TextMeshPro-5.5-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.322 seconds
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Divij\Unity Project\InternDivij\Build\InternDivij_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.796640 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 4958 -> priority: 1 
+  Thread -> id: 1d0 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.156598 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1429.
+Total: 0.502508 ms (FindLiveObjects: 0.052549 ms CreateObjectMapping: 0.032022 ms MarkObjects: 0.309551 ms  DeleteObjects: 0.107973 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.994342 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 2.918982 ms (FindLiveObjects: 0.039412 ms CreateObjectMapping: 0.024222 ms MarkObjects: 0.806723 ms  DeleteObjects: 2.047393 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412188 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1429.
+Total: 0.499224 ms (FindLiveObjects: 0.060350 ms CreateObjectMapping: 0.033664 ms MarkObjects: 0.327615 ms  DeleteObjects: 0.077182 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.865431 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 2.953879 ms (FindLiveObjects: 0.035306 ms CreateObjectMapping: 0.022580 ms MarkObjects: 0.785374 ms  DeleteObjects: 2.110206 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.406030 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1429.
+Total: 0.452832 ms (FindLiveObjects: 0.050086 ms CreateObjectMapping: 0.032433 ms MarkObjects: 0.299288 ms  DeleteObjects: 0.068561 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.966014 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 432.
+Total: 2.898866 ms (FindLiveObjects: 0.027506 ms CreateObjectMapping: 0.032433 ms MarkObjects: 0.734466 ms  DeleteObjects: 2.103638 ms)
+
